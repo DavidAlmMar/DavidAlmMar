@@ -1,16 +1,15 @@
-## Hi there 👋
 
-<!--
-**DavidAlmMar/DavidAlmMar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ¡Hola! 👋 Soy David Almira Martínez
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologías y herramientas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Lenguajes: [HTML, CSS, JavaScript, Kotlin, Java, PHP]
+- Herramientas: Git, GitHub, Laravel, VSC, 
+
+### Proyecto colaborativo
+
+Participación en el desarrollo de un proyecto junto a otros colaboradores.
+
+- Trabajo colaborativo utilizando Git y GitHub.
+- Participación en el desarrollo del código.
+- https://github.com/MoisesSM-tech/Proyecto?utm_source=chatgpt.com
