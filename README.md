@@ -5,7 +5,6 @@
 
 Participación en el desarrollo de un proyecto junto a otros colaboradores.
 
-- Enlace para el proyecto de Github: https://github.com/MoisesSM-tech/Proyecto
 - Mi participación en el proyecto fue principalmente el estilo visual de la app, la programación del funcionamiento del apartado de los cocineros y la solución de errores y purificación de la app.
 
 - Nombre de la aplicación: GDC
