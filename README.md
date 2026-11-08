@@ -5,7 +5,8 @@
 
 Participación en el desarrollo de un proyecto junto a otros colaboradores.
 
--Enlace para el proyecto de Github: https://github.com/MoisesSM-tech/Proyecto?utm_source=chatgpt.com
+- Enlace para el proyecto de Github: https://github.com/MoisesSM-tech/Proyecto?utm_source=chatgpt.comç
+- Mi participación en el proyecto fue principalmente el estilo visual de la app, la programación del funcionamiento del apartado de los cocineros y la solución de errores y purificación de la app.
 
 - Nombre de la aplicación: GDC
 - Descripción: Es un gestor de comandas para un restaurante, con el objetivo de agilizar el proceso de toma y llegada de comandas a la cocina.
